@@ -2,7 +2,7 @@
 +++
 title = "O que é Deploy"
 date = "2020-07-17"
-image = "images/post/imagem1.png"
+image = "images/post/imagem3.png"
 draft = false
 Categories = ["portugues", "pipeline"]
 Tags = ["portugues", "deploy", "devops"]
