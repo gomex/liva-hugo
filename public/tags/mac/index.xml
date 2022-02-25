@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mac on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/mac/</link>
+    <description>Recent content in mac on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/mac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What I should install on my Mac?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</guid>
+      <description>Starting the year, I decided to do a backup and format my Macbook, restart from scratch.</description>
+    </item>
+    
+    <item>
+      <title>O que instalar em um Mac de alguém de infra</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</guid>
+      <description>Pra começar bem o ano, resolvi fazer um backup e formatar meu Mac, reiniciar do zero, pois o meu notebook tem apenas 128GB de espaço em disco e ultimamente tenho brigado por cada último byte livre no HD.</description>
+    </item>
+    
+  </channel>
+</rss>

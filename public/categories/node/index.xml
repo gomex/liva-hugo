@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>node on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/node/</link>
+    <description>Recent content in node on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/node/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to deploy Ruby and Node app on Heroku using Docker - Part 1</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</guid>
+      <description>TL;DR We needed to deploy a ruby+node application as a docker image on Heroku, but I didn&amp;rsquo;t use Heroku cli to build it.</description>
+    </item>
+    
+  </channel>
+</rss>

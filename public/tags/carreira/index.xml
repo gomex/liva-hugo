@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>carreira on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/carreira/</link>
+    <description>Recent content in carreira on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/carreira/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fazendo merge de apenas uma pasta entre duas branches no git</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</guid>
+      <description>TL;DR Um dia precisei fazer merge entre duas branchs, mas apenas dos dados de uma pasta específica.</description>
+    </item>
+    
+    <item>
+      <title>Os primeiros passos para uma carreira DevOps</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</guid>
+      <description>TL;DR Quer entrar na carreira &amp;ldquo;DevOps&amp;rdquo; e não sabe por onde começar?</description>
+    </item>
+    
+  </channel>
+</rss>

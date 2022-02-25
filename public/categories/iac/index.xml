@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iac on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/iac/</link>
+    <description>Recent content in iac on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/iac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy de infraestrutura como código (IaC)</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</guid>
+      <description>Deploy de Infraestrutura como código Introdução Explicamos aqui o que é um deploy, mas nesse artigo falaremos sobre um tipo especial de deploy.</description>
+    </item>
+    
+  </channel>
+</rss>

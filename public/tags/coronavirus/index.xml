@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>coronavirus on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/coronavirus/</link>
+    <description>Recent content in coronavirus on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/coronavirus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Você tem uma equipe de TI e tem dúvidas com o trabalho remoto em tempos de coronavírus?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto_gestor/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto_gestor/</guid>
+      <description>Contextualização Eu escrevi um artigo com dicas sobre como trabalhar remoto, mas boa parte delas se destinavam aos trabalhadores.</description>
+    </item>
+    
+    <item>
+      <title>Em casa por conta do Coronavírus? Segue algumas dicas para trabalhar remoto</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto/</guid>
+      <description>Contextualização Em tempos de pandemia de coronavírus pelo mundo, a orientação mais adotada pelas empresas de TI tem sido o trabalho remoto, mas como sei que muitas pessoas ainda não tem experiência nisso, a ideia desse texto é apresentar algumas dicas, que funcionam pra mim.</description>
+    </item>
+    
+  </channel>
+</rss>

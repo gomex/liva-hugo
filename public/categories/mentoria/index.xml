@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mentoria on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/mentoria/</link>
+    <description>Recent content in mentoria on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/mentoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como funciona a Mentoria de IaC em projetos de Software Livre</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</guid>
+      <description>O que é IaC? IaC é a sigla para Infrastructure as Code (Infraestrutura como Código) que é o processo de manipular a infraestrutura através de código.</description>
+    </item>
+    
+    <item>
+      <title>Perguntas frequentes sobre a mentoria de infraestrutura como código</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</guid>
+      <description>Mentoria de IaC? Como funciona? Veja qual objetivo nesse artigo.</description>
+    </item>
+    
+  </channel>
+</rss>

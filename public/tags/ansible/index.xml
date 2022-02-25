@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ansible on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/ansible/</link>
+    <description>Recent content in ansible on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/ansible/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Usando variáveis no Ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/variaveis_no_ansible/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/variaveis_no_ansible/</guid>
+      <description>Introdução O Ansible é uma ferramenta com muitas possibilidades e grande versatilidade, e justamente por isso pode ser um problema para quem usa suas funcionalidades sem seguir algumas boas práticas.</description>
+    </item>
+    
+    <item>
+      <title>Garantindo a qualidade para sua Infra como código</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/qa_iac_ansible/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/qa_iac_ansible/</guid>
+      <description>Introdução A infra como código ainda é um assunto em desenvolvimento, e ao contrário da engenharia de software no desenvolvimento convencional de código, que está bastante estabelecida, na automação de infra as melhores práticas ainda estão em amplo debate e pouco adotadas pela maioria das equipes que fazem esse tipo de implementação.</description>
+    </item>
+    
+    <item>
+      <title>Como funciona a Mentoria de IaC em projetos de Software Livre</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</guid>
+      <description>O que é IaC? IaC é a sigla para Infrastructure as Code (Infraestrutura como Código) que é o processo de manipular a infraestrutura através de código.</description>
+    </item>
+    
+    <item>
+      <title>Perguntas frequentes sobre a mentoria de infraestrutura como código</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</guid>
+      <description>Mentoria de IaC? Como funciona? Veja qual objetivo nesse artigo.</description>
+    </item>
+    
+    <item>
+      <title>Como organizar as roles e playbooks do ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</guid>
+      <description>Contexto O ansible é por definição um gerenciador de configuração, que resumidamente é a ferramenta responsável por aplicar definições de infraestrutura como código nos ativos.</description>
+    </item>
+    
+  </channel>
+</rss>

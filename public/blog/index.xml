@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/blog/</link>
+    <description>Recent content in blog on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy de infraestrutura como código (IaC)</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</guid>
+      <description>Deploy de Infraestrutura como código Introdução Explicamos aqui o que é um deploy, mas nesse artigo falaremos sobre um tipo especial de deploy.</description>
+    </item>
+    
+    <item>
+      <title>Usando variáveis no Ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/variaveis_no_ansible/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/variaveis_no_ansible/</guid>
+      <description>Introdução O Ansible é uma ferramenta com muitas possibilidades e grande versatilidade, e justamente por isso pode ser um problema para quem usa suas funcionalidades sem seguir algumas boas práticas.</description>
+    </item>
+    
+    <item>
+      <title>Garantindo a qualidade para sua Infra como código</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/qa_iac_ansible/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/qa_iac_ansible/</guid>
+      <description>Introdução A infra como código ainda é um assunto em desenvolvimento, e ao contrário da engenharia de software no desenvolvimento convencional de código, que está bastante estabelecida, na automação de infra as melhores práticas ainda estão em amplo debate e pouco adotadas pela maioria das equipes que fazem esse tipo de implementação.</description>
+    </item>
+    
+    <item>
+      <title>Como funciona a Mentoria de IaC em projetos de Software Livre</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria/</guid>
+      <description>O que é IaC? IaC é a sigla para Infrastructure as Code (Infraestrutura como Código) que é o processo de manipular a infraestrutura através de código.</description>
+    </item>
+    
+    <item>
+      <title>Perguntas frequentes sobre a mentoria de infraestrutura como código</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/mentoria-faq/</guid>
+      <description>Mentoria de IaC? Como funciona? Veja qual objetivo nesse artigo.</description>
+    </item>
+    
+    <item>
+      <title>Como organizar as roles e playbooks do ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</guid>
+      <description>Contexto O ansible é por definição um gerenciador de configuração, que resumidamente é a ferramenta responsável por aplicar definições de infraestrutura como código nos ativos.</description>
+    </item>
+    
+    <item>
+      <title>O que é pipeline</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_pipeline/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_pipeline/</guid>
+      <description>Contextualização Esse artigo segue a série sobre “Deploy em produção para desenvolvedores?</description>
+    </item>
+    
+    <item>
+      <title>O que é Deploy</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_deploy/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_deploy/</guid>
+      <description>Contextualização Esse artigo segue na série sobre &amp;ldquo;Deploy em produção para desenvolvedores?</description>
+    </item>
+    
+    <item>
+      <title>Precisamos falar sobre Pull Request</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-pr/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-pr/</guid>
+      <description>Contextualização Essa é a terceira parte da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>Seus heróis estão vivos?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/veio/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/veio/</guid>
+      <description>Você reconhece eles no seu dia a dia? Aquelas pessoas incríveis, que fazem coisas sensacionais e que você tem certeza que o mundo seria bem pior sem essas pessoas.</description>
+    </item>
+    
+    <item>
+      <title>O que deve ter no seu pipeline? Testes!</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-testes/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-testes/</guid>
+      <description>Contextualização Essa é a continuação da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>Qual software de pipeline (CI/CD) você deve usar?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-2/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-2/</guid>
+      <description>Contextualização Esse artigo faz parte da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>O que deve ter no seu pipeline? Parte 1</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline/</guid>
+      <description>Contextualização Ao longo de alguns anos de experiência tenho percebido que muitas pessoas tem dúvidas sobre quais os elementos que podem ser usados para compor um pipeline de entrega de produto.</description>
+    </item>
+    
+    <item>
+      <title>Você tem uma equipe de TI e tem dúvidas com o trabalho remoto em tempos de coronavírus?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto_gestor/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto_gestor/</guid>
+      <description>Contextualização Eu escrevi um artigo com dicas sobre como trabalhar remoto, mas boa parte delas se destinavam aos trabalhadores.</description>
+    </item>
+    
+    <item>
+      <title>Em casa por conta do Coronavírus? Segue algumas dicas para trabalhar remoto</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto/</link>
+      <pubDate>Sun, 15 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/dicas_remoto/</guid>
+      <description>Contextualização Em tempos de pandemia de coronavírus pelo mundo, a orientação mais adotada pelas empresas de TI tem sido o trabalho remoto, mas como sei que muitas pessoas ainda não tem experiência nisso, a ideia desse texto é apresentar algumas dicas, que funcionam pra mim.</description>
+    </item>
+    
+    <item>
+      <title>What I should install on my Mac?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</guid>
+      <description>Starting the year, I decided to do a backup and format my Macbook, restart from scratch.</description>
+    </item>
+    
+    <item>
+      <title>O que instalar em um Mac de alguém de infra</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</guid>
+      <description>Pra começar bem o ano, resolvi fazer um backup e formatar meu Mac, reiniciar do zero, pois o meu notebook tem apenas 128GB de espaço em disco e ultimamente tenho brigado por cada último byte livre no HD.</description>
+    </item>
+    
+    <item>
+      <title>9 mitos que você deveria esquecer</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/9mitos_que_voce_deveria_esquecer/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/9mitos_que_voce_deveria_esquecer/</guid>
+      <description>Fui surpreendido essa semana com uma matéria, de uma revista super conceituada, sobre &amp;ldquo;9 segredos obscuros sobre DevOps que você precisa saber&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>10 anos DevOpsDays e quem recebe o presente sou eu</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</guid>
+      <description>Esse ultimo fim de semana foi muito intenso pra mim, eu fui aceito para fazer minha primeira palestra internacional, e foi no aniversário de 10 anos do DevOpsDays.</description>
+    </item>
+    
+    <item>
+      <title>How to deploy Ruby and Node app on Heroku using Docker - Part 1</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</guid>
+      <description>TL;DR We needed to deploy a ruby+node application as a docker image on Heroku, but I didn&amp;rsquo;t use Heroku cli to build it.</description>
+    </item>
+    
+    <item>
+      <title>Distroless! Pense mais em sua aplicação e menos na distribuição</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</guid>
+      <description>TL;DR Apresentarei um conceito novo de focar na aplicação e suas dependências na construção de imagens Docker, falando sobre problemas com imagens grandes, superfície de ataque e como usar Multi stage build e a imagem scratch para resolver esse problema.</description>
+    </item>
+    
+    <item>
+      <title>Do you need to execute more than one process per container?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord-en/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord-en/</guid>
+      <description>TL;DR You need more than one process in a container, so you need to follow some best practices to your container does not become just a &amp;ldquo;lightweight machine&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Precisa executar mais do que um processo por container?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord/</guid>
+      <description>TL;DR Você precisa de mais do que um processo em um container, para tal você precisa seguir algumas melhores práticas para que seu container não se torne uma &amp;ldquo;máquina leve&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo merge de apenas uma pasta entre duas branches no git</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</guid>
+      <description>TL;DR Um dia precisei fazer merge entre duas branchs, mas apenas dos dados de uma pasta específica.</description>
+    </item>
+    
+    <item>
+      <title>Os primeiros passos para uma carreira DevOps</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</guid>
+      <description>TL;DR Quer entrar na carreira &amp;ldquo;DevOps&amp;rdquo; e não sabe por onde começar?</description>
+    </item>
+    
+    <item>
+      <title>Começando novamente</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/comecando-novamente/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/comecando-novamente/</guid>
+      <description>TL;DR O texto será sobre o porque decidir novamente trocar de blog e experimentar um novo modelo mais simples, porém ainda usando site com conteúdo estático.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pipeline on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/pipeline/</link>
+    <description>Recent content in pipeline on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/pipeline/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy de infraestrutura como código (IaC)</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_de_iac/</guid>
+      <description>Deploy de Infraestrutura como código Introdução Explicamos aqui o que é um deploy, mas nesse artigo falaremos sobre um tipo especial de deploy.</description>
+    </item>
+    
+    <item>
+      <title>O que é pipeline</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_pipeline/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_pipeline/</guid>
+      <description>Contextualização Esse artigo segue a série sobre “Deploy em produção para desenvolvedores?</description>
+    </item>
+    
+    <item>
+      <title>O que é Deploy</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_deploy/</link>
+      <pubDate>Fri, 17 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_e_deploy/</guid>
+      <description>Contextualização Esse artigo segue na série sobre &amp;ldquo;Deploy em produção para desenvolvedores?</description>
+    </item>
+    
+    <item>
+      <title>Precisamos falar sobre Pull Request</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-pr/</link>
+      <pubDate>Sun, 05 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-pr/</guid>
+      <description>Contextualização Essa é a terceira parte da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>O que deve ter no seu pipeline? Testes!</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-testes/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-testes/</guid>
+      <description>Contextualização Essa é a continuação da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>Qual software de pipeline (CI/CD) você deve usar?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-2/</link>
+      <pubDate>Thu, 28 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline-2/</guid>
+      <description>Contextualização Esse artigo faz parte da série &amp;ldquo;O que deve ter no seu pipeline?</description>
+    </item>
+    
+    <item>
+      <title>O que deve ter no seu pipeline? Parte 1</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline/</link>
+      <pubDate>Sun, 24 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_deve_ter_no_pipeline/</guid>
+      <description>Contextualização Ao longo de alguns anos de experiência tenho percebido que muitas pessoas tem dúvidas sobre quais os elementos que podem ser usados para compor um pipeline de entrega de produto.</description>
+    </item>
+    
+  </channel>
+</rss>

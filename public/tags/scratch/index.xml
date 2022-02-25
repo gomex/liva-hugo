@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scratch on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/scratch/</link>
+    <description>Recent content in scratch on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/scratch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Distroless! Pense mais em sua aplicação e menos na distribuição</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</guid>
+      <description>TL;DR Apresentarei um conceito novo de focar na aplicação e suas dependências na construção de imagens Docker, falando sobre problemas com imagens grandes, superfície de ataque e como usar Multi stage build e a imagem scratch para resolver esse problema.</description>
+    </item>
+    
+  </channel>
+</rss>

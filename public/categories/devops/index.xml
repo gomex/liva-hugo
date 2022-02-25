@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>devops on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/devops/</link>
+    <description>Recent content in devops on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como organizar as roles e playbooks do ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/ansible-roles-playbook/</guid>
+      <description>Contexto O ansible é por definição um gerenciador de configuração, que resumidamente é a ferramenta responsável por aplicar definições de infraestrutura como código nos ativos.</description>
+    </item>
+    
+    <item>
+      <title>What I should install on my Mac?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra_en/</guid>
+      <description>Starting the year, I decided to do a backup and format my Macbook, restart from scratch.</description>
+    </item>
+    
+    <item>
+      <title>O que instalar em um Mac de alguém de infra</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/o_que_instalar_mac_infra/</guid>
+      <description>Pra começar bem o ano, resolvi fazer um backup e formatar meu Mac, reiniciar do zero, pois o meu notebook tem apenas 128GB de espaço em disco e ultimamente tenho brigado por cada último byte livre no HD.</description>
+    </item>
+    
+    <item>
+      <title>9 mitos que você deveria esquecer</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/9mitos_que_voce_deveria_esquecer/</link>
+      <pubDate>Thu, 28 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/9mitos_que_voce_deveria_esquecer/</guid>
+      <description>Fui surpreendido essa semana com uma matéria, de uma revista super conceituada, sobre &amp;ldquo;9 segredos obscuros sobre DevOps que você precisa saber&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>10 anos DevOpsDays e quem recebe o presente sou eu</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</guid>
+      <description>Esse ultimo fim de semana foi muito intenso pra mim, eu fui aceito para fazer minha primeira palestra internacional, e foi no aniversário de 10 anos do DevOpsDays.</description>
+    </item>
+    
+    <item>
+      <title>How to deploy Ruby and Node app on Heroku using Docker - Part 1</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/deploy_ruby_heroku/</guid>
+      <description>TL;DR We needed to deploy a ruby+node application as a docker image on Heroku, but I didn&amp;rsquo;t use Heroku cli to build it.</description>
+    </item>
+    
+    <item>
+      <title>Distroless! Pense mais em sua aplicação e menos na distribuição</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/distroless/</guid>
+      <description>TL;DR Apresentarei um conceito novo de focar na aplicação e suas dependências na construção de imagens Docker, falando sobre problemas com imagens grandes, superfície de ataque e como usar Multi stage build e a imagem scratch para resolver esse problema.</description>
+    </item>
+    
+    <item>
+      <title>Do you need to execute more than one process per container?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord-en/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord-en/</guid>
+      <description>TL;DR You need more than one process in a container, so you need to follow some best practices to your container does not become just a &amp;ldquo;lightweight machine&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Precisa executar mais do que um processo por container?</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/supervisord/</guid>
+      <description>TL;DR Você precisa de mais do que um processo em um container, para tal você precisa seguir algumas melhores práticas para que seu container não se torne uma &amp;ldquo;máquina leve&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Fazendo merge de apenas uma pasta entre duas branches no git</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/cherry-pick/</guid>
+      <description>TL;DR Um dia precisei fazer merge entre duas branchs, mas apenas dos dados de uma pasta específica.</description>
+    </item>
+    
+    <item>
+      <title>Os primeiros passos para uma carreira DevOps</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</link>
+      <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/carreira-devops/</guid>
+      <description>TL;DR Quer entrar na carreira &amp;ldquo;DevOps&amp;rdquo; e não sabe por onde começar?</description>
+    </item>
+    
+  </channel>
+</rss>

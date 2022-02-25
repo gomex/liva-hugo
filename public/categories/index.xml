@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/categories/</link>
+    <description>Recent content in Categories on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iac</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/iac/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/iac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pipeline</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/pipeline/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/pipeline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portugues</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/portugues/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/portugues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ansible</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/ansible/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/ansible/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QA</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/qa/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mentoria</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/mentoria/</link>
+      <pubDate>Mon, 08 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/mentoria/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devops</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/devops/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>herois</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/herois/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/herois/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dicas</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/dicas/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/dicas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>remoto</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/remoto/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/remoto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>english</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/english/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mac</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/mac/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>devopsdays</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/devopsdays/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/devopsdays/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/docker/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>node</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/node/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/node/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ruby</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/ruby/</link>
+      <pubDate>Fri, 15 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/ruby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scratch</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/scratch/</link>
+      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/scratch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supervisord</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/supervisord/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/supervisord/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>carreira</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/carreira/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/carreira/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/categories/blog/</link>
+      <pubDate>Sun, 17 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

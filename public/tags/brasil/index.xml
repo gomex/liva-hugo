@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>brasil on Liva | Personal blog template</title>
+    <link>https://demo.gethugothemes.com/liva/examplesite/tags/brasil/</link>
+    <description>Recent content in brasil on Liva | Personal blog template</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.gethugothemes.com/liva/examplesite/tags/brasil/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 anos DevOpsDays e quem recebe o presente sou eu</title>
+      <link>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</link>
+      <pubDate>Mon, 11 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/liva/examplesite/blog/devopsdays10anos/</guid>
+      <description>Esse ultimo fim de semana foi muito intenso pra mim, eu fui aceito para fazer minha primeira palestra internacional, e foi no aniversário de 10 anos do DevOpsDays.</description>
+    </item>
+    
+  </channel>
+</rss>
