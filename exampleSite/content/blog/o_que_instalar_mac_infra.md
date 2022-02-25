@@ -4,6 +4,8 @@ date = "2020-01-02"
 draft = false
 Categories = ["devops", "mac"]
 Tags = ["devops", "mac", "brew", "saas"]
+type = "post"
+image = "images/post/post-1.jpg"
 +++
 
 Pra começar bem o ano, resolvi fazer um backup e formatar meu Mac, reiniciar do zero, pois o meu notebook tem apenas 128GB de espaço em disco e ultimamente tenho brigado por cada último byte livre no HD.

@@ -4,6 +4,8 @@ date = "2020-07-05"
 draft = false
 Categories = ["portugues", "pipeline"]
 Tags = ["portugues", "pipeline as code", "pipeline", "devops", "qa"]
+type = "post"
+image = "images/post/post-1.jpg"
 +++
 
 ## Contextualização

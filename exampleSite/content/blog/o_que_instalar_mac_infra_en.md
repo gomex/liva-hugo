@@ -4,6 +4,8 @@ date = "2020-01-03"
 draft = false
 Categories = ["devops", "mac", "english"]
 Tags = ["english", "devops", "mac", "brew", "saas"]
+type = "post"
+image = "images/post/post-1.jpg"
 +++
 
 Starting the year, I decided to do a backup and format my Macbook, restart from scratch. I am an ops guy. My setup is based on tools to create and manage automated infrastructure, SaaS services, and containers.
