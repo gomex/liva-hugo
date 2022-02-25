@@ -5,7 +5,7 @@ draft = false
 Categories = ["portugues", "pipeline"]
 Tags = ["portugues", "pipeline as code", "pipeline", "devops", "qa"]
 type = "post"
-image = "images/post/imagem1.png"
+image = "images/post/imagem5.png"
 +++
 
 ## Contextualização
